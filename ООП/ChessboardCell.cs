@@ -155,6 +155,7 @@ public class ChessboardCell
         int deltaY = Math.Abs(cell1.Vertical - cell2.Vertical);
         return (deltaX == 2 && deltaY == 1) || (deltaX == 1 && deltaY == 2);
     }
+    
     //Бинарные операции (сравнение)#2
     public static bool operator != (ChessboardCell cell1, ChessboardCell cell2)
     {
