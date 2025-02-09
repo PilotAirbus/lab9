@@ -1,0 +1,14 @@
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/bin/Debug/net8.0/ООП
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/bin/Debug/net8.0/ООП.deps.json
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/bin/Debug/net8.0/ООП.runtimeconfig.json
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/bin/Debug/net8.0/ООП.dll
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/bin/Debug/net8.0/ООП.pdb
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/obj/Debug/net8.0/ООП.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/obj/Debug/net8.0/ООП.AssemblyInfoInputs.cache
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/obj/Debug/net8.0/ООП.AssemblyInfo.cs
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/obj/Debug/net8.0/ООП.csproj.CoreCompileInputs.cache
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/obj/Debug/net8.0/ООП.dll
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/obj/Debug/net8.0/refint/ООП.dll
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/obj/Debug/net8.0/ООП.pdb
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/obj/Debug/net8.0/ООП.genruntimeconfig.cache
+/Users/sergejbaskirov/RiderProjects/ООП/ООП/obj/Debug/net8.0/ref/ООП.dll
